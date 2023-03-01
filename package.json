@@ -1,0 +1,38 @@
+{
+  "name": "@nikitindiz/abi-to-js",
+  "version": "0.0.2",
+  "description": "TODO",
+  "dependencies": {
+    "@polkadot/util-crypto": "10.2.1",
+    "@tanstack/react-query": "4.24.4",
+    "ethers": "5.7.2",
+    "prettier": "2.7.1",
+    "ramda": "0.28.0",
+    "typescript": "4.9.5",
+    "wagmi": "0.11.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nikitindiz/package-test.git"
+  },
+  "keywords": [
+    "rmrk",
+    "abi",
+    "hooks",
+    "evm"
+  ],
+  "author": "RMRK Team",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/nikitindiz/package-test/issues"
+  },
+  "homepage": "https://github.com/nikitindiz/package-test#readme",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  }
+}
